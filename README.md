@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on https://www.damos.co
 - 🌱 I’m currently learning eloquent orm out of laravel
-- 👯 I’m looking to collaborate on new cool products...
-- 💬 Ask me about anything...
+- 👯 I’m looking to collaborate on new cool products
+- 💬 Ask me about anything
 - 📫 How to reach me: masterjj24@gmail.com
 
 Based on https://github.com/PythonicNinja
